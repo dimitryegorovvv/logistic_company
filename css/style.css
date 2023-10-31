@@ -11,6 +11,7 @@ body{
     font-size: 60px;
     text-transform: uppercase;
     overflow-x: hidden;
+    
 }
 
 img{
@@ -106,5 +107,55 @@ a{
     .s2 img{
         width: 800px;
         height: 500px;
+    }
+}
+
+@media only screen and (max-width: 900px){
+    .s1{
+        font-size: 40px;
+    }
+    .s2{
+        font-size: 35px;
+    }
+    .s2 img{
+        width: 400px;
+        height: 300px;
+    }
+    .s3_text_1{
+        font-size: 30px;
+    }
+    .s3_text_2{
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .s3 img{
+        width: 200px;
+        height: 200px;
+    }
+    .s4 img{
+        width: 200px;
+        height: 200px;
+    }
+    .s4{
+        font-size: 40px;
+    }
+    .s5 img{
+        height: 150px;
+        width: 150px;
+    }
+    .s5_text_1{
+        font-size: 35px;
+    }
+    .s5_text_2{
+        width: 250px;
+        font-size: 20px;
+    }
+    .s6{
+        font-size: 35px
+    }
+    .s6 img{
+        width: 200px;
+        height: 200px;
     }
 }
