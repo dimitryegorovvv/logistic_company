@@ -111,6 +111,9 @@ a{
 }
 
 @media only screen and (max-width: 900px){
+    #pagepiling > *{
+        padding: 20px;
+    }
     .s1{
         font-size: 40px;
     }
@@ -118,8 +121,8 @@ a{
         font-size: 35px;
     }
     .s2 img{
-        width: 400px;
-        height: 300px;
+        width: 350px;
+        height: 250px;
     }
     .s3_text_1{
         font-size: 30px;
@@ -128,10 +131,6 @@ a{
         font-size: 20px;
         margin-left: 0px;
         margin-right: 0px;
-    }
-    .s3{
-        padding-left: 20px;
-        padding-right: 20px;
     }
     .s3 img{
         width: 200px;
