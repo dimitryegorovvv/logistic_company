@@ -47,9 +47,8 @@ a{
 }
 
 .s2 img{
-    width: 1100px;
-    height: 700px;
-    /* object-fit: cover; */
+    width: 400px;
+    height: 400px;
 }
 
 .s3_text_2{
@@ -121,8 +120,8 @@ a{
         font-size: 35px;
     }
     .s2 img{
-        width: 250px;
-        height: 150px;
+        width: 200px;
+        height: 200px;
     }
     .s3_text_1{
         font-size: 30px;
